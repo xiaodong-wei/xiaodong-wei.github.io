@@ -2,7 +2,7 @@
 main:
 
   - title: "Bio"
-    url: /bio/ 
+    url: /CV/ 
 
   - title: "Research"
     url: /research/
