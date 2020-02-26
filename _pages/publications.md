@@ -9,29 +9,31 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+{: note * indicates corresponding author}
+
 Preprints
 =========
-1. P. Antolin, A. Buffa, R. Puppi, X. Wei* (* Corresponding Author). “Overlapping Multi-Patch Isogeometric Method with Minimal Stabilization”. Submitted to SIAM Journal on Scientific Computing, 2019. arXiv: 1912.06400
+1. P. Antolin, A. Buffa, R. Puppi, __X. Wei__* (* Corresponding Author). “Overlapping Multi-Patch Isogeometric Method with Minimal Stabilization”. Submitted to SIAM Journal on Scientific Computing, 2019. [arXiv: 1912.06400]()
 
 Refereed Journal Articles
 =========================
-1. H. Casquero*, X. Wei* (* Corresponding Authors), D. Toshniwal, A. Li, T. J. R. Hughes, J. Kiendl, Y. Zhang. “Seamless Integration of Design and Nonlinear Kirchhoff-Love Shell Analysis Using Analysis-Suitable Unstructured T-splines”. Computer Methods in Applied Mechanics and Engineering, 2019. DOI: 10.1016/j.cma.2019.112765
-1. J. Cao, Z. Chen, X. Wei, Y. Zhang. “A Finite Element Framework Based on Bivariate Simplex Splines on Triangle Configurations”. Computer Methods in Applied Mechanics and Engineering, 2019. DOI: 10.1016/j.cma.2019.112598
-1. X. Li, X. Wei, Y. Zhang. “Hybrid Non-Uniform Recursive Subdivision with Improved Convergence Rates”. Computer Methods in Applied Mechanics and Engineering, 352:606-624, 2019. [link]
-1. X. Wei, Y. Zhang, D. Toshniwal, H. Speleers, X. Li, C. Manni, J. A. Evans, T. J. R. Hughes. “Blended B-Spline Construction on Unstructured Quadrilateral and Hexahedral Meshes with Optimal Convergence Rates in Isogeometric Analysis”. Computer Methods in Applied Mechanics and Engineering, 341:609-639, 2018. [link]
-1. X. Wei, Y. Zhang, T. J. R. Hughes. “Truncated Hierarchical Tricubic C0 Spline Construction on Unstructured Hexahedral Meshes for Isogeometric Analysis Applications”. Computers and Mathematics with Applications, 74(9):2203-2220, 2017. [link]
-1. Y. Lai, Y. J. Zhang, L. Liu, X. Wei, E. Fang, J. Lua. “Integrating CAD with Abaqus: A Practical Isogeometric Analysis Software Platform for Industrial Applications”. Computers and Mathematics with Applications, 74(7):1648-1660, 2017. [link]
-1. X. Wei, Y. Zhang, L. Liu, T. J. R. Hughes. “Truncated T-spline: Fundamentals and Methods”. Computer Methods in Applied Mechanics and Engineering, 316:349-372, 2017. [link]
-1. A. Pawar, Y. Zhang, Y. Jia, X. Wei, T. Rabczuk, C. L. Chan, C. Anitescu. “Adaptive FEM-Based Nonrigid Image Registration Using Truncated Hierarchical B-splines”. Computers and Mathematics with Applications, 72:2028-2040, 2016. [link]
-1. X. Wei, Y. Zhang, T. J. R. Hughes, M. A. Scott. “Extended Truncated Hierarchical Catmull-Clark Subdivision”. Computer Methods in Applied Mechanics and Engineering, 299:316-336, 2015. [link]
-1. L. Liu, Y. Zhang, X. Wei. “Weighted T-spline and Its Application in Reparameterizing Trimmed NURBS Surfaces”. Computer Methods in Applied Mechanics and Engineering, 295(1):108-126, 2015. [link]
-1. X. Wei, Y. Zhang, T. J. R. Hughes, M. A. Scott. “Truncated Hierarchical Catmull-Clark Subdivision with Local Refinement”. Computer Methods in Applied Mechanics and Engineering, 291:1-20, 2015. [link]
-1. L. Wijerathne, X. Wei, M. Hori, T. Ichimura, S. Tanaka. “Automated Meta-Modeling of Pipeline Network for Seismic Performance Analysis”. Journal of Japan Society of Civil Engineers, Ser. A2 (Applied Mechanics), 70(2):587-594, 2014. [link]
+1. H. Casquero, __X. Wei__* (* Corresponding Authors), D. Toshniwal, A. Li, T. J. R. Hughes, J. Kiendl, Y. Zhang. “Seamless Integration of Design and Nonlinear Kirchhoff-Love Shell Analysis Using Analysis-Suitable Unstructured T-splines”. _Computer Methods in Applied Mechanics and Engineering_, 2019. DOI: 10.1016/j.cma.2019.112765
+1. J. Cao, Z. Chen, __X. Wei__, Y. Zhang. “A Finite Element Framework Based on Bivariate Simplex Splines on Triangle Configurations”. Computer Methods in Applied Mechanics and Engineering, 2019. DOI: 10.1016/j.cma.2019.112598
+1. X. Li, __X. Wei__, Y. Zhang. “Hybrid Non-Uniform Recursive Subdivision with Improved Convergence Rates”. Computer Methods in Applied Mechanics and Engineering, 352:606-624, 2019.
+1. __X. Wei__, Y. Zhang, D. Toshniwal, H. Speleers, X. Li, C. Manni, J. A. Evans, T. J. R. Hughes. “Blended B-Spline Construction on Unstructured Quadrilateral and Hexahedral Meshes with Optimal Convergence Rates in Isogeometric Analysis”. Computer Methods in Applied Mechanics and Engineering, 341:609-639, 2018.
+1. __X. Wei__, Y. Zhang, T. J. R. Hughes. “Truncated Hierarchical Tricubic C0 Spline Construction on Unstructured Hexahedral Meshes for Isogeometric Analysis Applications”. Computers and Mathematics with Applications, 74(9):2203-2220, 2017.
+1. Y. Lai, Y. J. Zhang, L. Liu, __X. Wei__, E. Fang, J. Lua. “Integrating CAD with Abaqus: A Practical Isogeometric Analysis Software Platform for Industrial Applications”. Computers and Mathematics with Applications, 74(7):1648-1660, 2017.
+1. __X. Wei__, Y. Zhang, L. Liu, T. J. R. Hughes. “Truncated T-spline: Fundamentals and Methods”. Computer Methods in Applied Mechanics and Engineering, 316:349-372, 2017. [link]
+1. A. Pawar, Y. Zhang, Y. Jia, __X. Wei__, T. Rabczuk, C. L. Chan, C. Anitescu. “Adaptive FEM-Based Nonrigid Image Registration Using Truncated Hierarchical B-splines”. Computers and Mathematics with Applications, 72:2028-2040, 2016.
+1. __X. Wei__, Y. Zhang, T. J. R. Hughes, M. A. Scott. “Extended Truncated Hierarchical Catmull-Clark Subdivision”. Computer Methods in Applied Mechanics and Engineering, 299:316-336, 2015.
+1. L. Liu, Y. Zhang, __X. Wei__. “Weighted T-spline and Its Application in Reparameterizing Trimmed NURBS Surfaces”. Computer Methods in Applied Mechanics and Engineering, 295(1):108-126, 2015.
+1. __X. Wei__, Y. Zhang, T. J. R. Hughes, M. A. Scott. “Truncated Hierarchical Catmull-Clark Subdivision with Local Refinement”. Computer Methods in Applied Mechanics and Engineering, 291:1-20, 2015.
+1. L. Wijerathne, __X. Wei__, M. Hori, T. Ichimura, S. Tanaka. “Automated Meta-Modeling of Pipeline Network for Seismic Performance Analysis”. Journal of Japan Society of Civil Engineers, Ser. A2 (Applied Mechanics), 70(2):587-594, 2014.
 
 Conference Proceedings
 ======================
-1. A. Pawar, Y. Zhang, X. Wei, Y. Jia, T. Rabczuk, C. L. Chan, C. Anitescu. “An Adaptive Non-rigid Image Registration Technique Using Hierarchical B-splines”. VIPIMAGE 2015. Tenerife, Canary Islands, Spain. Oct. 19-21, 2015.
-1. L. Liu, Y. Zhang, X. Wei. “Handling Extraordinary Nodes with Weighted T-spline Basis Functions”. 24th International Meshing Roundtable. Austin, TX. Oct. 12-14, 2015.
-1. L. Liu, Y. Zhang, X. Wei. “NURBS Surface Reparameterization Using Truncated T-splines”. 23rd International Meshing Roundtable. London, UK. Oct. 12-15, 2014.
-1. X. Wei, Y. Zhang. “Truncated Hierarchical Catmull-Clark Subdivision with Local Refinement for Arbitrary Topology”. Workshop on Structured Meshing: Theory, Application and Evaluation, the 27th Conference on Computer Animation and Social Agents (CASA 2014). Houston, TX. May 26-28, 2014.
-1. X. Wei, D. N. Thanh, M. L. L. Wijerathne, M. Hori. “Seismic Performance Assessment for Large Pipeline Network by Automatically Generated Model from GIS”. The 3rd Japan-Sino Workshop on Massive Simulation System for Earthquake Disaster, 2012.
+1. A. Pawar, Y. Zhang, __X. Wei__, Y. Jia, T. Rabczuk, C. L. Chan, C. Anitescu. “An Adaptive Non-rigid Image Registration Technique Using Hierarchical B-splines”. VIPIMAGE 2015. Tenerife, Canary Islands, Spain. Oct. 19-21, 2015.
+1. L. Liu, Y. Zhang, __X. Wei__. “Handling Extraordinary Nodes with Weighted T-spline Basis Functions”. 24th International Meshing Roundtable. Austin, TX. Oct. 12-14, 2015.
+1. L. Liu, Y. Zhang, __X. Wei__. “NURBS Surface Reparameterization Using Truncated T-splines”. 23rd International Meshing Roundtable. London, UK. Oct. 12-15, 2014.
+1. __X. Wei__, Y. Zhang. “Truncated Hierarchical Catmull-Clark Subdivision with Local Refinement for Arbitrary Topology”. Workshop on Structured Meshing: Theory, Application and Evaluation, the 27th Conference on Computer Animation and Social Agents (CASA 2014). Houston, TX. May 26-28, 2014.
+1. __X. Wei__, D. N. Thanh, M. L. L. Wijerathne, M. Hori. “Seismic Performance Assessment for Large Pipeline Network by Automatically Generated Model from GIS”. The 3rd Japan-Sino Workshop on Massive Simulation System for Earthquake Disaster, 2012.
