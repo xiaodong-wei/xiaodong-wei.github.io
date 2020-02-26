@@ -9,8 +9,6 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{: note * indicates corresponding author}
-
 Preprints
 =========
 1. P. Antolin, A. Buffa, R. Puppi, __X. Wei__* (* Corresponding Author). “Overlapping Multi-Patch Isogeometric Method with Minimal Stabilization”. Submitted to SIAM Journal on Scientific Computing, 2019. [arXiv: 1912.06400]()
