@@ -11,11 +11,11 @@ author_profile: true
 
 Preprints
 =========
-1. P. Antolin, A. Buffa, R. Puppi, __X. Wei__* (* Corresponding Author). “Overlapping Multi-Patch Isogeometric Method with Minimal Stabilization”. Submitted to SIAM Journal on Scientific Computing, 2019. [arXiv: 1912.06400]()
+1. P. Antolin, A. Buffa, R. Puppi, __X. Wei__\* (* Corresponding Author). [Overlapping Multi-Patch Isogeometric Method with Minimal Stabilization](). Submitted to _SIAM Journal on Scientific Computing_, 2019. arXiv: 1912.06400
 
 Refereed Journal Articles
 =========================
-1. H. Casquero, __X. Wei__* (* Corresponding Authors), D. Toshniwal, A. Li, T. J. R. Hughes, J. Kiendl, Y. Zhang. “Seamless Integration of Design and Nonlinear Kirchhoff-Love Shell Analysis Using Analysis-Suitable Unstructured T-splines”. _Computer Methods in Applied Mechanics and Engineering_, 2019. DOI: 10.1016/j.cma.2019.112765
+1. H. Casquero\*, __X. Wei__\* (* Corresponding Authors), D. Toshniwal, A. Li, T. J. R. Hughes, J. Kiendl, Y. Zhang. [Seamless Integration of Design and Nonlinear Kirchhoff-Love Shell Analysis Using Analysis-Suitable Unstructured T-splines]. _Computer Methods in Applied Mechanics and Engineering_, 2019. DOI: 10.1016/j.cma.2019.112765
 1. J. Cao, Z. Chen, __X. Wei__, Y. Zhang. “A Finite Element Framework Based on Bivariate Simplex Splines on Triangle Configurations”. Computer Methods in Applied Mechanics and Engineering, 2019. DOI: 10.1016/j.cma.2019.112598
 1. X. Li, __X. Wei__, Y. Zhang. “Hybrid Non-Uniform Recursive Subdivision with Improved Convergence Rates”. Computer Methods in Applied Mechanics and Engineering, 352:606-624, 2019.
 1. __X. Wei__, Y. Zhang, D. Toshniwal, H. Speleers, X. Li, C. Manni, J. A. Evans, T. J. R. Hughes. “Blended B-Spline Construction on Unstructured Quadrilateral and Hexahedral Meshes with Optimal Convergence Rates in Isogeometric Analysis”. Computer Methods in Applied Mechanics and Engineering, 341:609-639, 2018.
