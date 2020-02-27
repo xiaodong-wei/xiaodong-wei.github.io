@@ -13,7 +13,7 @@ My research focuses on developing novel simulation-aware geometric modeling tech
 motivated to address grand challenges in modern engineering design/optimization, computational biomedicine, and additive manufacturing. 
 The related fundamental methods belong to the family of isogeometric analysis.
 
-<table>
+<table style="width:100%">
 <tr>
 <td>
 
