@@ -15,29 +15,15 @@ The related fundamental methods belong to the family of isogeometric analysis.
 
 <table>
 <tr>
-<th> Good </th>
-<th> Bad </th>
-</tr>
-<tr>
 <td>
 
-```c++
-int foo() {
-    int result = 4;
-    return result;
-}
-```
+<img height="100px" class="center-block" src="/images/engine-mount.gif">
 
 </td>
 <td>
 
-```c++
-int foo() { 
-    int x = 4;
-    return x;
-}
-```
+description
 
 </td>
 </tr>
-</table
+</table>
