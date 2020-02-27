@@ -16,7 +16,7 @@ The related fundamental methods belong to the family of isogeometric analysis.
 <table>
 <tr>
 <td>
-<img height="200px" class="center-block" src="/images/engine-mount.gif">
+<img height="200" src="/images/engine-mount.gif">
 </td>
 <td>
 Simulaiton-aware solid modeling<br>
