@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 Xiaodong Wei, Ph.D.
--------------------
 Postdoctoral Fellow in Mathematics, EPFL  
 
 EPFL SB MATH MNS  
