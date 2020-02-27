@@ -16,7 +16,7 @@ The related fundamental methods belong to the family of isogeometric analysis.
 <table style="width:100%">
 <tr>
 <td>
-<img height="200px" class="center-block" src="/images/engine-mount.gif">
+<img height="50px" class="center-block" src="/images/engine-mount.gif">
 </td>
 <td>
 description
