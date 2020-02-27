@@ -16,5 +16,5 @@ EPFL SB MATH MNS
 MA B2 505, Station 8  
 Lausanne 1015, Switzerland   
 
-Phone: +41 76 702 86 39
+Phone: +41 76 702 86 39 
 E-Mail: <a href="mailto:xiaodong.wei@epfl.ch" target="_blank" rel="noopener noreferrer">xiaodong.wei@epfl.ch</a>
