@@ -19,7 +19,8 @@ The related fundamental methods belong to the family of isogeometric analysis.
 <img height="50px" class="center-block" src="/images/engine-mount.gif">
 </td>
 <td>
-description
+<h2>Simulation-aware solid modeling</h2>
+In this work, we build smooth volume models that can be directly used in computer simulation. Such a model not only describes the shape of an object, but also discretizes its interior domain in a smooth manner, thus immediately suitable for simulations based on "bulk" geometries. Moreover, as all the simulation-related properties are already built in such geometric models, it allows downstream simulations to follow a standard procedure, and thus it is of great ease to link with commercial finite element packages such as LS-DYNA.
 </td>
 </tr>
 </table>
