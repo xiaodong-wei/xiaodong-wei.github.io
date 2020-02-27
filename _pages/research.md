@@ -16,11 +16,10 @@ The related fundamental methods belong to the family of isogeometric analysis.
 <table>
 <tr>
 <td>
-<img height="100" src="/images/engine-mount.gif">
+<img src="/images/engine-mount.gif">
 </td>
 <td>
-Simulaiton-aware solid modeling<br>
-In this work, we build smooth volume models 
+<img src="/images/engine-mount.gif">
 </td>
 </tr>
 </table>
