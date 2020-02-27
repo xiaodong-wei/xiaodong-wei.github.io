@@ -16,8 +16,8 @@ Education
 * M.S., Civil Engineering, The University of Tokyo, Japan, 2013
 * B.S., Civil Engineering & Economics (Double Degree), Tsinghua University, China, 2011
 
-Academic Appointments
----------------------
+Academic Positions
+------------------
 * Postdoctoral Fellow, Institute of Mathematics, École Polytechnique Fédérale de Lausanne, Switzerland, 2018-Present
 * Postdoctoral Fellow, Mechanical Engineering, Carnegie Mellon University, USA, 2017-2018
 
