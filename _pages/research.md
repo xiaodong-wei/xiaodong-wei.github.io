@@ -15,5 +15,5 @@ The related fundamental methods belong to the family of isogeometric analysis.
 
 | Highlights                           |                                                                    |
 | ------------------------------------ | ------------------------------------------------------------------ |
-| [!alt txt](/images/engine-mount.gif) | Description of the item in the list                                |
+| ![alt txt](/images/engine-mount.gif) | Description of the item in the list                                |
 
