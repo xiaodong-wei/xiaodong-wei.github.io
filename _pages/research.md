@@ -15,10 +15,10 @@ The related fundamental methods belong to the family of isogeometric analysis.
 
 <table>
 <tr>
-<td style="width:40%;">
+<td>
 <img src="/images/engine-mount.gif">
 </td>
-<td style="width:30%;">
+<td>
 <img src="/images/engine-mount.gif">
 </td>
 </tr>
