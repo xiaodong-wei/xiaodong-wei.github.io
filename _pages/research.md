@@ -13,11 +13,31 @@ My research focuses on developing novel simulation-aware geometric modeling tech
 motivated to address grand challenges in modern engineering design/optimization, computational biomedicine, and additive manufacturing. 
 The related fundamental methods belong to the family of isogeometric analysis.
 
-<div class="row">
-  <div class="col-md-8" markdown="1">
-  Some text.
-  </div>
-  <div class="col-md-4" markdown="1">
-  <img height="600px" class="center-block" src="/images/engine-mount.gif">
-  </div>
-</div>
+<table>
+<tr>
+<th> Good </th>
+<th> Bad </th>
+</tr>
+<tr>
+<td>
+
+```c++
+int foo() {
+    int result = 4;
+    return result;
+}
+```
+
+</td>
+<td>
+
+```c++
+int foo() { 
+    int x = 4;
+    return x;
+}
+```
+
+</td>
+</tr>
+</table
