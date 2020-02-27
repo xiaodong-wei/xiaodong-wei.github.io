@@ -12,8 +12,3 @@ redirect_from:
 My research focuses on developing novel simulation-aware geometric modeling techniques for free-form, complex-shaped surfaces/volumes, 
 motivated to address grand challenges in modern engineering design/optimization, computational biomedicine, and additive manufacturing. 
 The related fundamental methods belong to the family of isogeometric analysis.
-
-| Highlights                           |                                                                    |
-| ------------------------------------ | ------------------------------------------------------------------ |
-| ![alt txt](/images/engine-mount.gif) | Description of the item in the list                                |
-
