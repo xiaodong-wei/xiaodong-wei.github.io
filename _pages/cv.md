@@ -18,30 +18,30 @@ Education
 
 Academic Appointments
 ---------------------
-* Postdoctoral Fellow, Institute of Mathematics, École Polytechnique Fédérale de Lausanne, Switzerland, 2018 - Present
-* Postdoctoral Fellow, Mechanical Engineering, Carnegie Mellon University, USA, 2017 - 2018
+* Postdoctoral Fellow, Institute of Mathematics, École Polytechnique Fédérale de Lausanne, Switzerland, 2018-Present
+* Postdoctoral Fellow, Mechanical Engineering, Carnegie Mellon University, USA, 2017-2018
 
 Awards and Honors
 -----------------
-* M-CRIT Scholarship for Trainees, Frankel Cardiovascular Center, USA, 2017
-* Bertucci Graduate Fellowship, Carnegie Mellon University, USA, 2016
-* Liang Ji-Dian Graduate Fellowship, Carnegie Mellon University, USA, 2016
-* SIAM Student Travel Award, GD/SPM15 Conference, USA, 2015
-* CIT Dean’s Fellowship, Carnegie Mellon University, USA, 2013
-* Japanese Government Scholarship, The University of Tokyo, Japan, 2011
+* _M-CRIT Scholarship for Trainees_, Frankel Cardiovascular Center, USA, 2017
+* _Bertucci Graduate Fellowship_, Carnegie Mellon University, USA, 2016
+* _Liang Ji-Dian Graduate Fellowship_, Carnegie Mellon University, USA, 2016
+* _SIAM Student Travel Award_, GD/SPM15 Conference, USA, 2015
+* _CIT Dean’s Fellowship_, Carnegie Mellon University, USA, 2013
+* _Japanese Government Scholarship_, The University of Tokyo, Japan, 2011
   
 Professional Services
 ---------------------
-* Co-organizer of the following minisymposia
+* __Co-organizer__ of the following minisymposia
   * "Unstructured Spline Techniques", IGA 2020, Banff, Canada, October 18-21, 2020
   * "Isogeometric Spline Techniques on Complex Geometries", WCCM ECCOMAS 2020, Paris, France, July 19-24, 2020
   * "Unstructured Spline Techniques", IGA 2019, Munich, Germany, September 18-20, 2019
-* Program committee member of CVM 2020, Macau, China, April 15-17, 2020
-* Session chair of the following minisymposia
+* __Program committee member__ of CVM 2020, Macau, China, April 15-17, 2020
+* __Session chair__ of the following minisymposia
   * "Unstructured Spline Techniques", IGA 2019, Munich, Germany, September 18-20, 2019
   * "Alternative Geometry Descriptions and Analysis Integration", IGA 2019, Munich, Germany, September 18-20, 2019
   * "Unstructured Spline Techniques for Isogeometric Analysis with Applications", 15th USNCCM, Austin, TX, USA, July 28-August 1, 2019 
-* Reviewer of the following journals
+* __Reviewer__ of the following journals
   * Computer-Aided Design
   * Computer-Aided Geometric Design
   * Computer Methods in Applied Mechanics and Engineering
@@ -50,4 +50,4 @@ Professional Services
   * Engineering with Computers
   * Molecular & Cellular Biomechanics
   * Advances in Mechanical Engineering
-* Website manager of Solid Modeling Association, 2017 - 2018
+* __Website manager__ of [Solid Modeling Association](http://solidmodeling.org/), 2017-2018
