@@ -21,7 +21,7 @@ In this work, we build smooth volume models that can be directly used in compute
 ## 2. Material transport in neuronal branches
 ![](/images/transport.gif){:width="300px" .align-left}  
 In this work, we study how traffic of material transport is routed and balanced in a complex geometry of a neurite network. A detailed knowledge through simulation of the traffic phenomenon is crucial to elucidating how neurons operate their material transport systems and, more importantly, to understanding and controlling the structure and function of neurons.
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 ## 3. Medical image registration
 ![](/images/brain.gif){:width="300px" .align-left}  
