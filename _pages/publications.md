@@ -7,9 +7,9 @@ author_profile: true
 
 In Progress
 -----------
-1. __X. Wei__, B. Marussig, P. Antolin, A. Buffa. [Immersed Boundary-Conformal Isogeometric Method for Elliptic Problems]. August, 2020. 
-1. __X. Wei__, X. Li, K. Qian, Y. Zhang, T. J. R. Hughes, H. Casquero. [Unstructured T-splines: Multiple Extraordinary Points, Theory and Applications]. August, 2020. 
-1. P. Antolin, A. Buffa, __X. Wei__* (* Corresponding Author). [Isogeometric V-reps: Integrating Trimmed Elements]. December, 2020.
+1. __X. Wei__, B. Marussig, P. Antolin, A. Buffa. [Immersed Boundary-Conformal Isogeometric Method for Elliptic Problems](). August, 2020. 
+1. __X. Wei__, X. Li, K. Qian, Y. Zhang, T. J. R. Hughes, H. Casquero. [Unstructured T-splines: Multiple Extraordinary Points, Theory and Applications](). August, 2020. 
+1. P. Antolin, A. Buffa, __X. Wei__* (* Corresponding Author). [Isogeometric V-reps: Integrating Trimmed Elements](). December, 2020.
 
 Preprints
 ---------
