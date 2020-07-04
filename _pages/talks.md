@@ -11,7 +11,6 @@ Invited Seminars
 
 Conference Presentations
 ------------------------
-1. "Isogeometric V-Rep: Volumetric Trimming and Union". _14th World Congress on Computational Mechanics (WCCM XIV) and 8th European Congress on Computational Methods in Applied Sciences and Engineering (ECCOMAS 2020)_, Paris, France, July 19-24, 2020.
 1. (__Invited talk__) "Overlapping Multi-Patch Isogeometric Method with Minimal Stabilization". _INdAM Workshop: Geometric Challenges in Isogeometric Analysis_, The Istituto Nazionale di Alta Matematica (INdAM), Rome, Italy, January 27-31, 2020.
 1. (__Invited talk__) "Analysis-Suitable Non-Uniform Hybrid Subdivision with Optimal Convergence Rates". _7th International Conference on Isogeometric analysis_, Munich, Germany, September 18-20, 2019.
 1. (__Invited talk__) "Isogeometric Analysis with Boolean Operations". _15th U.S. National Congress on Computational Mechanics_, Austin, TX, USA, July 28-August 1, 2019.
