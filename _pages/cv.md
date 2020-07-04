@@ -18,7 +18,7 @@ Education
 
 Academic Positions
 ------------------
-* Postdoctoral Fellow, Institute of Mathematics, École Polytechnique Fédérale de Lausanne, Switzerland, 2018-Present
+* Postdoctoral Fellow, Institute of Mathematics, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland, 2018-Present
 * Postdoctoral Fellow, Mechanical Engineering, Carnegie Mellon University, USA, 2017-2018
 
 Awards and Honors
@@ -29,12 +29,17 @@ Awards and Honors
 * _SIAM Student Travel Award_, GD/SPM15 Conference, USA, 2015
 * _CIT Dean’s Fellowship_, Carnegie Mellon University, USA, 2013
 * _Japanese Government Scholarship_, The University of Tokyo, Japan, 2011
+* _Second Prize in Structural Design Competition_, Tsinghua University, China, 2009
+* _First Class Scholarship for College Freshmen_, Tsinghua University, China, 2007
+  - Ranked 2nd in the National College Exam (2007) in Gansu Province
   
 Professional Services
 ---------------------
 * __Co-organizer__ of the following minisymposia
-  * "Unstructured Spline Techniques", IGA 2020, Banff, Canada, October 18-21, 2020
-  * "Isogeometric Spline Techniques on Complex Geometries", WCCM ECCOMAS 2020, Paris, France, July 19-24, 2020
+  * “Unstructured Spline Technologies”, USNCCM16, Chicago, Illinois, USA, July 25 - 29, 2021
+  * “Industrial Applications of IGA”, USNCCM16, Chicago, Illinois, USA, July 25 - 29, 2021
+  * "Unstructured Spline Techniques", IGA 2020, Banff, Canada, October 18-21, 2020 (Canceled due to Coivd-19)
+  * "Isogeometric Spline Techniques on Complex Geometries", WCCM ECCOMAS 2020, Paris, France, July 19-24, 2020 (Canceled due to Coivd-19)
   * "Unstructured Spline Techniques", IGA 2019, Munich, Germany, September 18-20, 2019
 * __Program committee member__ of CVM 2020, Macau, China, April 15-17, 2020
 * __Session chair__ of the following minisymposia
@@ -50,4 +55,5 @@ Professional Services
   * Engineering with Computers
   * Molecular & Cellular Biomechanics
   * Advances in Mechanical Engineering
+  * International Journal for Numerical Methods in Biomedical Engineering
 * __Website manager__ of [Solid Modeling Association](http://solidmodeling.org/), 2017-2018
